@@ -936,4 +936,4 @@ if __name__ == "__main__":
     if "--ui" in sys.argv:
         run_streamlit_ui()
     else:
-        main()
+        main() 
